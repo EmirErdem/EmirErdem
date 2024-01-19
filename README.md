@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Emir Erdem</h1>
+<h3 align="center">Data Scientist, Machine Learning Enthusiast</h3>
 
-<!--
-**EmirErdem/EmirErdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Data Science, Machine Learning**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **eemireerdem@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/emir-erdem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emir-erdem/" height="30" width="40" /></a>
+</p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmirErdem&show_icons=true&locale=en&layout=compact" alt="EmirErdem" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmirErdem&show_icons=true&locale=en" alt="EmirErdem" /></p>
+
