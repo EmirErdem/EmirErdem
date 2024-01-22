@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Emir Erdem</h1>
-<h3 align="center">Data Scientist, Machine Learning Enthusiast</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
