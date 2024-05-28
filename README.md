@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emir Erdem</h1>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning**
+- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, Computer Vision**
 
 - 📫 How to reach me **eemireerdem@gmail.com**
 
